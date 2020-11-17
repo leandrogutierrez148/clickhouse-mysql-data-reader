@@ -22,6 +22,7 @@ from clickhouse_mysql.dbclient.chclient import CHClient
 from clickhouse_mysql.util import Util
 
 import pprint
+import importlib
 
 CONVERTER_CSV = 1
 CONVERTER_CH = 2

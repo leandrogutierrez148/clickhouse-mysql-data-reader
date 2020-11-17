@@ -2,10 +2,8 @@
 
  * [Introduction](#introduction)
  * [Requirements and Installation](#requirements-and-installation)
-<!-- 
    * [Dev Installation](#dev-installation)
    * [RPM Installation](#rpm-installation)
--->
    * [PyPi Installation](#pypi-installation)
    * [GitHub-based Installation - Clone Sources](#github-based-installation---clone-sources)
    * [MySQL setup](#mysql-setup)
@@ -52,8 +50,11 @@ However, you may have it called differently.
 
 Datareader can be installed either from `github` repo or from `pypi` repo.
 
+<<<<<<< HEAD
 <!--
 
+=======
+>>>>>>> 7d0b882 (init: fork )
 ## Dev Installation
 ```bash
 sudo yum install -y rpm-build
@@ -104,7 +105,10 @@ Start service
 ```bash
 sudo service clickhouse-mysql start
 ```
+<<<<<<< HEAD
 -->
+=======
+>>>>>>> 7d0b882 (init: fork )
 
 ## PyPi Installation
 In case you need just to use the app - this is the most convenient way to go.
